@@ -1,0 +1,17 @@
+{
+    "name": "supermercado",
+    "version": "1.0.0",
+    "description": "A supermarket CRUD",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron .",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Gabriela Recinos",
+    "license": "ISC",
+    "dependencies": {
+      "electron": "^12.0.1",
+      "mysql2": "^2.2.5"
+    }
+  }
+  

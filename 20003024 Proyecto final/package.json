@@ -1,0 +1,19 @@
+{
+  "name": "supermarket",
+  "version": "1.0.0",
+  "description": "A supermarket CRUD",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Recinos",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "parrotsay": "^0.1.0"
+  },
+  "dependencies": {
+    "howler": "^2.2.3"
+  }
+}
